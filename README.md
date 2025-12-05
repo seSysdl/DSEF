@@ -36,25 +36,27 @@ DSEM
 
 ### Command
 
- python utils/main.py  \\
+```
+ python utils/main.py  \
 
-​	--dataset seq-cifar10  \
+	--dataset seq-cifar10  \
 
-​	--model robustdualvit  \
+	--model robustdualvit  \
 
-​	--buffer_size 500  \
+	--buffer_size 500  \
 
-​	--lr 0.03  \	
+	--lr 0.03  \	
 
-​	--minibatch_size 32  \
+	--minibatch_size 32  \
 
-​	--alpha 0.3  \
+	--alpha 0.3  \
 
-​	--r_alpha 0.3  \
+	--r_alpha 0.3  \
 
-​	--batch_size 32  \
+	--batch_size 32  \
 
-​	--n_epochs 1  \
+	--n_epochs 1  \
+```
 
 ### License
 
