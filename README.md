@@ -1,6 +1,6 @@
 
 
-# DSEM
+# DSEF
 
 This repository is for "Dynamic Siamese Expansion Framework for Improving Robustness in Online Continual Learning" in NeurIPS 2025.
 
@@ -10,7 +10,7 @@ Continual learning requires the model to continually capture novel information w
 
 ### Content
 ```
-DSEM 
+DSEF 
 ├── backbone
 │  ├── ViT.py
 ├── data
