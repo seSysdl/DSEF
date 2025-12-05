@@ -1,0 +1,1 @@
+#### /weights/jx_vit_base_p16_224-80ecf9dd.pth
