@@ -41,7 +41,7 @@ DSEM
 
 	--dataset seq-cifar10  \
 
-	--model robustdualvit  \
+	--model siamesevit  \
 
 	--buffer_size 500  \
 
